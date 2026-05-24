@@ -31,5 +31,3 @@ DETAIL
 []<img width="718" height="1599" alt="detail" src="https://github.com/user-attachments/assets/bddc1bb0-c02a-4cea-ad7c-0203cc0eee8b" />
 
 
-## Author
-[Nama Kamu]<img width="718" height="1599" alt="homeee" src="https://github.com/user-attachments/assets/ff030348-411c-4914-90cc-fc31b65383f3" />
